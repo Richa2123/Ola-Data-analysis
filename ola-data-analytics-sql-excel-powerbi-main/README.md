@@ -105,10 +105,10 @@ An interactive Power BI dashboard presenting:
 ## How to Run the Project
 
 1. Project Repository:
-   [https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi](https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi)
+   [https://github.com/Richa2123/ola-data-analytics-sql-excel-powerbi](https://github.com/Richa2123/ola-data-analytics-sql-excel-powerbi)
 
 2. Clone the repository:
-   git clone [https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi.git](https://github.com/katreujwal2004/ola-data-analytics-sql-excel-powerbi.git)
+   git clone [https://github.com/Richa2123/ola-data-analytics-sql-excel-powerbi.git](https://github.com/Richa2123/ola-data-analytics-sql-excel-powerbi.git)
 
 3. Open the CSV file in Excel
 
@@ -135,8 +135,8 @@ This project demonstrates how raw Ola ride data can be transformed into meaningf
 ## Author & Contact
 
 **Ujwal Katre**
-📧 Email: [ujwalkatre2004@gmail.com](mailto:ujwalkatre2004@gmail.com)
-🔗 GitHub: [https://github.com/katreujwal2004](https://github.com/katreujwal2004)
+📧 Email: [kumariricha2123@gmail.com](mailto:kumariricha2123@gmail.com)
+🔗 GitHub: [https://github.com/kumariricha2123@gmail.com](https://github.com/kumariricha2123@gmail.com)
 
 ---
 
