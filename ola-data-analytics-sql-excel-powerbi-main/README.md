@@ -134,7 +134,7 @@ This project demonstrates how raw Ola ride data can be transformed into meaningf
 
 ## Author & Contact
 
-**Ujwal Katre**
+**Richa Kumari**
 📧 Email: [kumariricha2123@gmail.com](mailto:kumariricha2123@gmail.com)
 🔗 GitHub: [https://github.com/kumariricha2123@gmail.com](https://github.com/kumariricha2123@gmail.com)
 
